@@ -5,6 +5,12 @@
 	<key>items</key>
 	<array>
 		<dict>
+	<key>AppId</key>
+	<string>9c6c340e198d0d18b229d101af405c1b96c219f0</string>
+	<key>Appkey</key>
+	<string>37cad3cc560809ca08de0712925b13b5</string>
+</dict>
+		<dict>
 			<key>assets</key>
 			<array>
 				<dict>
